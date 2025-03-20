@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "aea306c4-9bb8-4b78-9352-67c74358f9bc"
+      }
+    },
+    "android": {
+      "package": "com.aadityasalgaonkar.splitx"
+    }
+  }
+}
