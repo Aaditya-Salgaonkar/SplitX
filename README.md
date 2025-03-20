@@ -104,6 +104,11 @@ DATABASE_URL=<your_postgresql_database_url>
 
 ---
 
+## AI
+Used chatgpt for debugging and refactoring. Used rork to get design and functionalities ideas. Explored other models to understand the core functionalities
+
+---
+
 ## Contact
 For any queries, contact **Aaditya Salgaonkar** at aadityasalgaonkar@gmail.com.
 
